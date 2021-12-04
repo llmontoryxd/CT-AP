@@ -1,0 +1,78 @@
+
+    System Info
+                Status:   Solver is finished.
+                Product:   Flow Simulation 2020 3.0. Build: 4921
+                Computer name:   ZXC
+                User name:   monto
+                Processors:   Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz
+                Memory:   16313 MB / 8105 MB
+                Operating system:   Windows 10 (or higher) (Version 10.0.22000)
+                CAD version:   SOLIDWORKS 2020 SP3.0
+                CPU speed:   3696 MHz
+
+    General Info
+                Model:   Assem1.SLDASM
+                Project name:   test
+                Project path:   D:\Work\SolidWorksProjects\MIPT_Project\Fan\1
+                Units system:   Custom Units
+                Analysis type:   External (not exclude internal spaces)
+                Exclude cavities without flow conditions :   On
+                Coordinate system:   Global coordinate system
+                Reference axis:   Y
+
+    Physical Features
+                Heat conduction in solids:   Off
+                Time dependent:   Off
+                Gravitational effects:   Off
+                Flow type:   Laminar and turbulent
+                High Mach number flow:   Off
+                Humidity:   Off
+                Free surface:   Off
+                Default roughness:   0 micrometer
+                Default wall conditions:   Adiabatic wall
+
+    Computational Domain
+
+        Size
+                X min:   -50.000 mm
+                X max:   50.000 mm
+                Y min:   -100.000 mm
+                Y max:   100.000 mm
+                Z min:   -50.000 mm
+                Z max:   50.000 mm
+                X size:   100.000 mm
+                Y size:   200.000 mm
+                Z size:   100.000 mm
+
+    Calculation Mesh
+
+        Basic Mesh Dimensions
+                Number of cells in X:   8
+                Number of cells in Y:   16
+                Number of cells in Z:   8
+
+        Number Of Cells
+                Cells:   11311
+                Fluid cells:   11311
+                Irregular cells:   0
+                Trimmed cells:   0
+                Maximum refinement level:   2
+
+    Goals
+                
+                Name   	Unit   	Value   	Progress   	Criteria   	Delta   	Use in convergence 
+
+    General Info
+                Run at:   ZXC
+                Number of cores:   12
+                Iterations:   94
+                CPU time:   0 s
+
+        Log
+                Mesh generation started	0:   08:02:32 , Dec 04
+                Mesh generation normally finished	0:   08:02:36 , Dec 04
+                Preparing data for calculation	0:   08:02:36 , Dec 04
+                Calculation started	0:   08:02:37 , Dec 04
+                Calculation has converged since the following criteria are satisfied:	94:   08:02:55 , Dec 04
+                    Goals are converged	94:   
+                Calculation finished	94:   08:02:57 , Dec 04

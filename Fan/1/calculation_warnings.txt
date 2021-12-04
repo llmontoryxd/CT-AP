@@ -1,0 +1,7 @@
+2021-Dec-04 08:02:55
+Computer name:	ZXC
+Number of cores used in calculation:	12
+Configuration name:	Default
+Project name:	test
+
+Warnings on last iteration: 
